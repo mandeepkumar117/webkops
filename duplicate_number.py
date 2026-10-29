@@ -2,6 +2,7 @@ numbers=eval(input("Enter a list item number: "))
 length=0
 for num in numbers:
     length=length + 1
+print('total length is: ',length)
 for i in range(length):
     for j in range(i+1,length):
         if numbers[i]==numbers[j]:

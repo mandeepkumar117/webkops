@@ -52,7 +52,7 @@ for char in str2:
     length2 = length2 + 1
 
 if length1 != length2:
-    print("Not Anagram")
+    print("this Not Anagram")
 
 else:
     is_anagram = True

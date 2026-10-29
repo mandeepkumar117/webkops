@@ -1,4 +1,4 @@
-# numbers=eval(input("enter list item: "))
+# numbers=eval(input("enter list item: ")) # badhte karam
 # length=0
 # for num in numbers:
 #     length=length+1

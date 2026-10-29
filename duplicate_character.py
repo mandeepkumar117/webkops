@@ -8,7 +8,7 @@ for i in range(length):
 
         if text[i] == text[j]:
             print(text[i])
-#             break
+            break
 
 # using bulit in method
 
